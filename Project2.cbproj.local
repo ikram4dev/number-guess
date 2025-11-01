@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/11/01 19:25:45.371,=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2025/11/01 19:25:48.566,=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2025/11/01 19:54:52.326,C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\numberguess\Unit2.cpp=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2025/11/01 19:54:52.328,C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\numberguess\Unit2.dfm=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2025/11/01 19:54:52.328,C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\numberguess\Unit2.h=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2025/11/01 19:54:57.326,C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\numberguess\Project2PCH1.h=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2025/11/01 19:55:01.977,C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\numberguess\Project2.cbproj=C:\Users\hp\OneDrive\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
