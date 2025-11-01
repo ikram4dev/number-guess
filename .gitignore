@@ -1,0 +1,13 @@
+*.exe
+*.obj
+*.tds
+*.dcu
+*.bak
+*.log
+*.res
+
+Win32/
+x64/
+Debug/
+Release/
+__history
