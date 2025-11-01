@@ -1,0 +1,11 @@
+*.exe
+*.obj
+*.tds
+*.dcu
+*.bak
+*.log
+
+Win32/
+x64/
+Debug/
+Release/
