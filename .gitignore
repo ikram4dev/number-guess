@@ -4,6 +4,7 @@
 *.dcu
 *.bak
 *.log
+*.res
 
 Win32/
 x64/
